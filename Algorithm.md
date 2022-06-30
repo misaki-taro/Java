@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [Table of Contents](#Table of Contents)
+- [Table of Contents](#Table-of-Contents)
 - [数学类](#数学类)
 
 
